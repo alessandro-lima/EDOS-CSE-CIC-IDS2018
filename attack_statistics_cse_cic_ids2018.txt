@@ -1,0 +1,18 @@
+LDoS/EDoS attacks data:
+
+1) DoS attacks-SlowHTTPtest - 128557
+2) DoS attacks-Slowloris - 10118
+3) SQL Injection - 79
+4) Total LDoS/EDoS Attacks - 138754
+
+Benign Data:
+
+Total - 355704
+
+Other attacks data (Low Rate DoS/DDoS):
+
+1) DoS attacks-SlowHTTPtest - 11332
+2) DoS attacks-Slowloris - 872
+3) SQL Injection - 9
+4) Total Low Rate DoS/DDoS - 12213
+
